@@ -1,0 +1,3 @@
+./corpus/*
+./result/*
+./.ipynb_checkpoints/*
